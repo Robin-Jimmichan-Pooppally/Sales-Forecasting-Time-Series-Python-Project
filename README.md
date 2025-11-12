@@ -16,7 +16,6 @@ A comprehensive Python-based exploratory data analysis and time-series forecasti
 - [Key Analysis Steps](#-key-analysis-steps)
 - [Methodology](#-methodology)
 - [Key Findings](#-key-findings)
-- [Business Impact](#-business-impact)
 - [How to Use](#-how-to-use)
 - [Visualization Guide](#-visualization-guide)
 - [Learning Outcomes](#-learning-outcomes)
